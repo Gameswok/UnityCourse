@@ -13,9 +13,14 @@ public class PlayerStats : MonoBehaviour
     public int luck = 5;
     public int gold = 0;
     public int inventorySize = 20;
-    
-  // Start is called once before the first execution of Update after the MonoBehaviour is created
-  void Start()
+    public int speed = 5;
+    public string playername = "";
+
+
+
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
     {
         
     }
