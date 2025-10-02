@@ -5,14 +5,14 @@ A) To copy someone’s GitHub account
 B) To download Unity to your computer  
 C) To create your own copy of the project you can freely modify  
 D) To permanently delete the original repository  
-Answer:
+Answer: C  To create your own copy of the project you can freely modify
 
 **2. Which of the following is the correct order of Git operations when syncing your local Unity project with changes from the main repo?**  
 A) Push > Pull > Fork > Commit  
 B) Fetch > Merge > Commit > Fork  
 C) Fork > Fetch > Pull > Merge > Commit > Push  
 D) Commit > Push > Fork > Merge > Pull  
-Answer:
+Answer: i think  C  Fork > Fetch > Pull > Merge > Commit > Push   but I am confused thought after FORK was PULL   
 
 ---
 
@@ -23,14 +23,14 @@ A) Edit project scripts
 B) Browse asset folders  
 C) Visually build and position GameObjects in the world  
 D) Preview the final game  
-Answer:
+Answer:  C  Visually build and position GameObjects in the world 
 
 **4. What is the function of the Gizmos toggle in the Scene view?**  
 A) Changes how objects are snapped to the grid  
 B) Hides or shows visual debug tools like object icons and wireframes  
 C) Enables hotkeys in play mode  
 D) Activates post-processing effects  
-Answer:
+Answer:  I am not sure it might of been when yo were talking about snapping items together    A
 
 ---
 
@@ -41,14 +41,14 @@ A) Rigidbody
 B) Main Camera and Directional Light  
 C) Debug Console  
 D) Audio Listener and Canvas  
-Answer:
+Answer:  B  Main Camera and Directional Light
 
 **6. Why is it important to “reset” a Transform component after creating a new GameObject?**  
 A) To remove all materials and meshes  
 B) To set the object’s collider  
 C) To standardize its position, rotation, and scale to default values  
 D) To disable the object in the hierarchy  
-Answer:
+Answer:   I am guessing  C To standardize its position, rotation, and scale to default values   but it could be A value
 
 ---
 
@@ -59,14 +59,14 @@ A) Console
 B) Volume Profile  
 C) MonoBehaviour Script (via Add Component)  
 D) Shader Graph  
-Answer:
+Answer: well I am thinking Visaal studio on the Inspector panel  so  C?   MonoBehaviour Script (via Add Component)
 
 **8. What does making a variable public in your script do in Unity’s Inspector?**  
 A) It encrypts the variable  
 B) It hides the variable from the Inspector  
 C) It lets you edit the value directly in the Unity Editor  
 D) It disables the variable during runtime  
-Answer:
+Answer: C It lets you edit the value directly in the Unity Editor     
 
 ---
 
@@ -77,11 +77,12 @@ A) Unity skips to the end of the game
 B) Unity saves all objects in the scene  
 C) Unity advances the simulation by one frame  
 D) Unity resets the game state  
-Answer:
+Answer:  Stop meams stop   D  Unity resets the game state 
 
 **10. Why might you want to mute audio in the Game view while debugging?**  
 A) It prevents errors from appearing in the console  
 B) It forces Unity to skip music files  
 C) To reduce distraction when testing the same interaction repeatedly  
 D) It disables all scripts with AudioSources  
-Answer:
+Answer:  I think C or  D It disables all scripts with AudioSources    
+	
